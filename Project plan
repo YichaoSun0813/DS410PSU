@@ -1,0 +1,19 @@
+Option 1 - Implementation Project:
+
+Project Objective (1-2 sentences) 
+Create a program to rank the most valuable NBA players in history
+
+Project Approach (1-2 paragraphs)
+I will create a SQL database, and connect it to java. This program allow user to input a NBA player with his honor and data he got for his whole NBA career. the SQL database will record all valid input and store them. the java program will use a formula to calculate a final result which estimate the value for this NBA player, and SQL database will rank all players by this final result.
+I still working on how to design the formula. It's hard, because there is no most convincing way to rank the most valuable NBA players in history up to now, even some authoritative organization such as ESPN. I will create the formula that make it more convincing, objectivity, and fair and reasonable as much as I can.
+
+Team Structure (3-4 sentences)
+I am the only team member in our team. I will handle all the things
+
+Project Milestones (~5 milestones)
+1 research (in process)
+2 create the formula
+3 finish the implement for SQL
+4 finish the implement for java and connect it to SQL
+5 testing
+6 output the result
